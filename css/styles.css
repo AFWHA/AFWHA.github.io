@@ -7,6 +7,7 @@ h5 {
     font-weight:900;
 }
 
+
 #mainjumbo {
     padding-top:200px;
     padding-bottom: 200px;
@@ -21,8 +22,17 @@ h5 {
     font-size:150%;
 }
 
-.maintable {
-    background-image:url("https://images.squarespace-cdn.com/content/v1/5a5906400abd0406785519dd/1552662149940-G6MMFW3JC2J61UBPROJ5/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/baelen.jpg?format=1500w");
+#maintable {
+    padding-top:100px;
+    padding-bottom:100px;
+    background-image:url("https://images.unsplash.com/photo-1592060035939-ae6e7a1cba86?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80");
+    background-repeat:no-repeat;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align:center;
+    font-size:150%;
+    font-weight:bold;
 }
 
 .hr1 {
@@ -38,6 +48,11 @@ h5 {
   opacity:0.9;
 }
 
+#whoweare {
+    padding-top:100px;
+    padding-bottom:150px;
+}
+
 .nav-link {
     color:white;
 }
@@ -45,3 +60,23 @@ h5 {
 .nav-link:hover {
     color:gray;
 }
+
+.title {
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-size: 300%;
+}
+
+.title2 {
+    text-transform:uppercase;
+    font-size:125%;
+    padding-bottom:40px;
+}
+
+table, th, td {
+    border:0px;
+  }
+
+  .footer {
+      padding-top:100px;
+  }
