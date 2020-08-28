@@ -43,10 +43,7 @@ h5 {
 
 #mainnav {
     background-color:#56536d;
-    position: fixed; /* Set the navbar to fixed position */
-  top: 0; /* Position the navbar at the top of the page */
-  width: 100%; Full width
-  opacity:0.95;
+  opacity:0.80;
 }
 
 #whoweare {
