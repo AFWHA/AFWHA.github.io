@@ -119,3 +119,7 @@ table, th, td {
     letter-spacing: 0.3em;
     font-size:150%;
 }
+
+a:hover {
+    color:gray;
+}
